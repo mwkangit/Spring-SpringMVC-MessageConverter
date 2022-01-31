@@ -967,3 +967,5 @@ public HelloData responseBodyJsonV2(){
 
 
 - #### Int는 기본형이어서 null이 저장될 수 없다. 하지만 Integer와 같은 제네릭 타입은 객체이므로 null이 저장되는 것이 가능하다. @RequestParam 시 null이 요청되어 오류가 발생할 때 int를 Integer로 바꾸는 방법이 자주 사용된다.
+
+Image 출처 : [김영한 스프링 MVC1](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
