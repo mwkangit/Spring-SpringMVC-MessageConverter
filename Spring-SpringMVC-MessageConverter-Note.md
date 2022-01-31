@@ -387,8 +387,7 @@ public class RequestHeaderController {
 
     #### 헤더 중 accept-encoding 경우 `[gzip, deflate, br]` 등 배열로 요청되기 때문에 MultiValueMap로 조회하는 것이 좋다.
 
-@Controller 파라미터 목록 : [Controller Parameter](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-
-arguments)
+@Controller 파라미터 목록 : [Controller Parameter](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-arguments)
 
 @Controller 응답 목록 : [Controller Response](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-return-types)
 
