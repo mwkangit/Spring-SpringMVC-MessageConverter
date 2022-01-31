@@ -71,7 +71,8 @@ private HelloData requestBodyJsonV5(HttpEntity<HelloData> httpEntity){
 }
 ```
 
-![argument reslover & converter location](/media/mwkang/Klevv/Spring 일지/MVC1/01.15/argument reslover & converter location.png)
+
+![argument reslover   converter location](https://user-images.githubusercontent.com/79822924/151751072-ac24630a-71bd-4026-a741-ab1c411754c0.png)
 
 Image 출처 : [김영한 스프링 MVC1](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
 
@@ -87,7 +88,8 @@ JSON 객체를 요청으로 받는 controller로 요청과 응답을 모두 JSON
 
 ## Demonstration Video
 
-![Spring-SpringMVC-MessageConverter](/home/mwkang/Downloads/Spring-SpringMVC-MessageConverter.gif)
+![Spring-SpringMVC-MessageConverter](https://user-images.githubusercontent.com/79822924/151751132-becf9eec-2494-4878-99ef-0ba8e19dae22.gif)
+
 
 
 
@@ -96,3 +98,7 @@ JSON 객체를 요청으로 받는 controller로 요청과 응답을 모두 JSON
 
 
 ## More Explanation
+
+
+
+[Spring-SpringMVC-MessageConverter.md](https://github.com/mwkangit/Spring-SpringMVC-MessageConverter/blob/master/Spring-SpringMVC-MessageConverter-Note.md)
