@@ -929,7 +929,7 @@ public HelloData responseBodyJsonV2(){
 
 
 
-![argument reslover & converter location](/media/mwkang/Klevv/Spring 일지/MVC1/01.15/argument reslover & converter location.png)
+![argument reslover   converter location](https://user-images.githubusercontent.com/79822924/151759386-7f47a287-c6c2-419b-9c15-6bf235eb188e.png)
 
 - #### RequestMappingHandlerAdapter에서 핸들러의 매개변수에 알맞은 데이터를 생성해야 핸들러에서 비즈니스 로직 수행이 가능하다.
 
